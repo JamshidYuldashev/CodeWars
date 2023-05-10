@@ -1,4 +1,4 @@
-package com.example.codewars.Algebra_8KYU;
+package com.example.codewars.KYU_8.Algebra;
 
 public class PythagoreanTriple_8_KYU {
     public static void main(String[] args) {
